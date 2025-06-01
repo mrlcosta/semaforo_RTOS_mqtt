@@ -109,4 +109,4 @@ mosquitto_sub -h 192.168.1.157 -u muriel -P muriel -t "semaforo/estado"
 
 
 ## demonstração
-- link do video: 
+- link do video: https://www.youtube.com/watch?v=tGGELkMGMgY&ab_channel=murielcosta
