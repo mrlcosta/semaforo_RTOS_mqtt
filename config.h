@@ -22,8 +22,8 @@
 #define VERMELHO 2
 #define NOTURNO 3
 
-#define WIFI_SSID "Tijuipe"
-#define WIFI_PASSWORD "ahgyyuuUdm"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 
 
